@@ -1,4 +1,4 @@
-package org.jokerCN.match.json;
+package org.jokerCN.matcha.json;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

@@ -7,15 +7,14 @@ repositories {
     mavenCentral()
 }
 
-dependencies {
 
+
+dependencies {
+    implementation 'org.jctools:jctools-core:4.0.1'
     implementation 'com.fasterxml.jackson.core:jackson-databind:2.14.2'
     implementation('com.google.code.gson:gson:2.10.1')
     implementation 'junit:junit:4.13.2'
 
     compileOnly('org.projectlombok:lombok:1.18.24')
     annotationProcessor('org.projectlombok:lombok:1.18.24')
-
-
-//    testImplementation("org.junit.jupiter:junit-jupiter")
 }

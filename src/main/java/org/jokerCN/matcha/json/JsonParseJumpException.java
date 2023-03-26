@@ -1,6 +1,6 @@
-package org.jokerCN.match.json;
+package org.jokerCN.matcha.json;
 
-import org.jokerCN.match.exception.RuntimeExceptionJump;
+import org.jokerCN.matcha.exception.RuntimeExceptionJump;
 
 public class JsonParseJumpException extends RuntimeExceptionJump {
 

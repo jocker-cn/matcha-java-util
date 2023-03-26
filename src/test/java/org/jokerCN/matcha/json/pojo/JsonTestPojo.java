@@ -1,4 +1,4 @@
-package org.jokerCN.match.json.pojo;
+package org.jokerCN.matcha.json.pojo;
 
 import java.util.List;
 

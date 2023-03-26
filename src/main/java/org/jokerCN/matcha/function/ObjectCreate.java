@@ -1,4 +1,4 @@
-package org.jokerCN.match.function;
+package org.jokerCN.matcha.function;
 
 import java.util.function.Supplier;
 

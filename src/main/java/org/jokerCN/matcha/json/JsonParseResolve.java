@@ -1,7 +1,7 @@
-package org.jokerCN.match.json;
+package org.jokerCN.matcha.json;
 
 
-import org.jokerCN.match.objectReslove.Resolve;
+import org.jokerCN.matcha.objectReslove.Resolve;
 
 public interface JsonParseResolve<T> extends Resolve<T> {
 

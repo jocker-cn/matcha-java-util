@@ -1,4 +1,4 @@
-package org.jokerCN.match.exception;
+package org.jokerCN.matcha.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

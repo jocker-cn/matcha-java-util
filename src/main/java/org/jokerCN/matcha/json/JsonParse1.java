@@ -1,4 +1,4 @@
-package org.jokerCN.match.json;
+package org.jokerCN.matcha.json;
 
 import java.io.Reader;
 import java.lang.reflect.Type;

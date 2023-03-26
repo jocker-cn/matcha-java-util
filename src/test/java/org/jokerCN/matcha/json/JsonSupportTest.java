@@ -1,7 +1,7 @@
-package org.jokerCN.match.json;
+package org.jokerCN.matcha.json;
 
 
-import org.jokerCN.match.json.pojo.JsonTestPojo;
+import org.jokerCN.matcha.json.pojo.JsonTestPojo;
 import org.junit.Assert;
 import org.junit.Test;
 
